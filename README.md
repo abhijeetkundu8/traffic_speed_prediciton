@@ -60,20 +60,17 @@ pip install -r requirements.txt
 streamlit run app.py
 
 📂 Project Structure
-bash
-Copy
-Edit
+
 traffic-speed-predictor/
 ├── app.py                    # Streamlit app
 ├── traffic_speed_model.pkl   # Trained ML model
 ├── requirements.txt          # Python dependencies
 ├── README.md                 # Project documentation
 └── notebook.ipynb            # Data analysis & model training
-🖼️ Screenshots
-Add screenshots of your Streamlit UI here.
+
 
 🌐 Live Demo
-If deployed, provide your Streamlit Cloud link here.
+https://abhijeetkundu8-traffic-speed-prediciton-app-jfh9xh.streamlit.app/
 
 
 
